@@ -2,12 +2,6 @@ CREATE TABLE Ventas (
 NumerodeOrden INT,
 FechadeOrden DATE,
 FechadeEntrega DATE,
-EstatusdelaOrden VARCHAR(255),
-NommbredelCliente VARCHAR(255),
-DomiciliodeEntrega   VARCHAR(255),
-CompraOnline VARCHAR (255),
-MetododePago VARCHAR(255),
-Subtotal FLOAT,
-Observaciones VARCHAR(255),
+,
 )
 
