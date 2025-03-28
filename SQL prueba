@@ -1,0 +1,9 @@
+CREATE TABLE Ventas (
+NumerodeOrden INT,
+FechadeOrden DATE,
+FechadeEntrega DATE,
+EstatusdelaOrden VARCHAR(MAX),
+NommbredelCliente VARCHAR(MAX),
+Subtotal FLOAT
+)
+
